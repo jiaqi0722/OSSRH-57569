@@ -32,7 +32,6 @@
 
 ### 容器
 
-```html
 <p align="center">
 <a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
 	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
@@ -53,5 +52,4 @@
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf60iwhzyuj31c00u0qv5.jpg" style="margin: 0 auto;width:400px"/>
 </a >
 </p>
-```
 
