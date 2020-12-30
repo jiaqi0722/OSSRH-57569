@@ -54,7 +54,7 @@
 2. jjjj
 
 
-https://tva1.sinaimg.cn/large/0081Kckwly1gm5xhogabaj31bg0owwg9.jpg
+<img src="https://tva1.sinaimg.cn/large/0081Kckwly1gm5xhogabaj31bg0owwg9.jpg">
 
 
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1gf60iwhzyuj31c00u0qv5.jpg" style="margin: 0 auto;width:400px"/>
